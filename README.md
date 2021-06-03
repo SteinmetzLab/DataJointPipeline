@@ -1,3 +1,18 @@
+# Getting started for Steinmetz lab
+
+# Getting the alyx json file
+
+Run this command to copy to your local datajoint folder:
+`
+ scp dan@steinmetzsuper1.biostr.washington.edu:/usr/local/data/alyx-backup/alyx_full.json /mnt/c/proj/DataJointPipeline/data/alyx_full.json
+`
+
+# Ingest
+
+Run jupyter lab and open the notebook `steinmetz_ingest`
+
+
+
 # Getting started with DataJoint for IBL #
 
 1. Email shanshen@vathes.com for a database username.
